@@ -1,0 +1,31 @@
+nav{
+    background-color: rgb(130, 99, 99);
+}
+.navHome{
+    margin-right:50px;
+}
+.cow{
+    margin-top: 50px !important;
+    margin-left: 150px !important;
+}
+.service{
+    margin-top: 50px;
+    text-align: center;
+    padding-left: 20px;
+}
+.aboutImage{
+    border: 2px solid white;
+    border-radius: 100px;
+}
+.projectImage:hover{
+    scale: 1.1;
+}
+ul li{
+    list-style-type:none;
+}
+.underline:hover{
+    text-decoration: underline;
+}
+ul li:hover{
+    text-decoration: underline;
+}
